@@ -268,7 +268,7 @@ Apache License
       same "printed page" as the copyright notice for easier
       identification within third-party archives.
 
-   Copyright [yyyy] [name of copyright owner]
+   Copyright [2019 [Rolando Gopez Lacuata]  
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
@@ -282,4 +282,5 @@ Apache License
    See the License for the specific language governing permissions and
    limitations under the License.
 
+ļąğįņğşąpøļ&7
 
